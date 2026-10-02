@@ -1,0 +1,53 @@
+{
+  "Frontend Developer": {
+    "description": "Builds user-facing interfaces and interactive web experiences.",
+    "skills": {
+      "HTML": 5, "CSS": 5, "JavaScript": 5, "React": 4, "TypeScript": 3,
+      "Tailwind CSS": 2, "Redux": 2, "Git": 3, "Testing": 2, "UI/UX Design": 2
+    }
+  },
+  "Full Stack Developer": {
+    "description": "Works across the frontend and backend to ship complete features.",
+    "skills": {
+      "HTML": 4, "CSS": 4, "JavaScript": 5, "React": 4, "Python": 3,
+      "Node.js": 3, "SQL": 4, "PostgreSQL": 3, "REST APIs": 5,
+      "Authentication": 3, "Docker": 3, "Git": 3, "Testing": 3
+    }
+  },
+  "Python Developer": {
+    "description": "Builds backend systems, tooling, and automation with Python.",
+    "skills": {
+      "Python": 5, "FastAPI": 3, "Django": 3, "Flask": 2, "SQL": 4,
+      "PostgreSQL": 3, "REST APIs": 4, "Git": 3, "Testing": 3, "Docker": 2, "Linux": 2
+    }
+  },
+  "Data Analyst": {
+    "description": "Turns raw data into insights and reports for decision-making.",
+    "skills": {
+      "Python": 4, "SQL": 5, "Data Analysis": 5, "Data Visualization": 4,
+      "PostgreSQL": 2, "Machine Learning": 1
+    }
+  },
+  "AI Engineer": {
+    "description": "Designs and deploys machine learning and AI-driven systems.",
+    "skills": {
+      "Python": 5, "Machine Learning": 5, "Deep Learning": 4, "Data Analysis": 3,
+      "SQL": 2, "Docker": 2, "REST APIs": 2, "Git": 2
+    }
+  },
+  "Backend Developer": {
+    "description": "Designs APIs, databases, and server-side application logic.",
+    "skills": {
+      "Python": 3, "Node.js": 3, "Java": 2, "FastAPI": 2, "Express": 2,
+      "SQL": 4, "PostgreSQL": 3, "MongoDB": 2, "REST APIs": 5,
+      "Authentication": 4, "Docker": 3, "Testing": 3, "Git": 3
+    }
+  },
+  "DevOps Engineer": {
+    "description": "Automates deployment pipelines and manages infrastructure.",
+    "skills": {
+      "Docker": 5, "Kubernetes": 5, "CI/CD": 5, "Linux": 5, "Git": 3,
+      "Python": 2, "SQL": 1
+    }
+  }
+}
